@@ -1,0 +1,59 @@
+*{
+    margin:0;
+}
+body{
+    background-image:url(avengers.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachement: fixed;
+}
+header{
+    padding: 10px 5%;
+}
+header>*{
+    display: inline-block;
+    width: 450 px;
+}
+.pustota{
+    width:10%;
+}
+header a{
+    text-decoration:none;
+    color: black;
+    margin: 0 10px;
+}
+.banner{
+    padding: 20% 5%;
+    color: white;
+    font-size:30 px;
+}
+.post{
+    background-color:white;
+    padding:10 px 5%;
+    text-align:center;
+}
+.post>*{
+    display:inline-block;
+    width:450 px;
+    font-size:30 px;
+    vertical-align: middle; 
+    }
+.razryv{
+        height:700 px;
+        }
+        .post{
+    background-color:white;
+    padding:10 px 5%;
+    text-align:center;
+        }
+.post>*{
+    display:inline-block;
+    width:450 px;
+    font-size:30 px;
+    vertical-align: middle; 
+    }
+#final{
+    background-attachement: fixed;
+    background-image:url(pattern.jpg);
+    padding:15% 30%;
+}
